@@ -1,9 +1,10 @@
 # Welcome To Oscar Lopez's Portfolio!
 [ Home ](README.md) | [ About Me ](aboutme.md) | [ Projects ](projects.md) | [ Experience ](experience.md) | [ Education ](education.md) | [ Contact Me ](contactMe.md)
 
-## Resume
 ___
-# Oscar Lopez
+# Resume
+___
+## Oscar Lopez
 
 **Email**: [Lopez2116@csusm.edu](mailto:Lopez2116@csusm.edu)  
 **LinkedIn**: [linkedin.com/in/oscar-lopez-dev/](https://www.linkedin.com/in/oscar-lopez-dev/)  
