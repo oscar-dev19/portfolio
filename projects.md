@@ -1,4 +1,5 @@
 # Projects
+![](coding.gif)
 
 ## AWS Serverless CRUD API
 - Designed and implemented a REST API that manages users' favorite foods using **AWS Lambda** and **DynamoDB**.
