@@ -1,6 +1,6 @@
 # Contact Me
 ![](mail.gif)
 
-- Email [Lopez2116@csusm.edu](mailto:lopez2116@csusm.edu)
-- LinkedIn [www.LinkedIn.com/oscar-lopez-dev](https://www.linkedin.com/in/oscar-lopez-dev/)
-- GitHub [ github.com/oscar-dev19 ](https://github.com/oscar-dev19)
+- [Email Me](mailto:Lopez2116@csusm.edu)
+- [LinkedIn](https://www.linkedin.com/in/oscar-lopez-dev/)
+- [GitHub](https://github.com/oscar-dev19)
