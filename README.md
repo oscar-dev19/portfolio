@@ -2,7 +2,8 @@
 [ Home ](README.md) | [ About Me ](aboutme.md) | [ Projects ](projects.md) | [ Experience ](experience.md) | [ Education ](education.md) | [ Contact Me ](contactMe.md)
 
 ___
-# Resume [ Download Resume ](OscarLopez_Resume_2025.pdf)
+# Resume 
+[ Download Resume ](OscarLopez_Resume_2025.pdf)
 ___
 ## Oscar Lopez
 
