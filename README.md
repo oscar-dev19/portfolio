@@ -21,9 +21,6 @@ ___
 ### Palomar College  
 **Associate of Science in Data Analytics** (In Progress)
 
-### Western Governors University (WGU)  
-**Master of Science in Data Analytics** (Planned)
-
 ---
 
 ## Experience
