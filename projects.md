@@ -22,7 +22,12 @@
 - Wrote **ARM assembly programs** and demonstrated a buffer overflow exploit using GDB.
 - Built a custom **Raspbian image** with dependencies for streamlined usage.
 
-For more projects, visit my GitHub: [github.com/oscar-dev19](https://github.com/oscar-dev19)
+## 5. Python EMS (Employee Management System)
+
+- Developed a terminal-based application for efficient employee data management using Python and SQLite.
+Features include CRUD operations, modular design for scalability, and robust data validation.
+
+- For more projects, visit my GitHub: [github.com/oscar-dev19](https://github.com/oscar-dev19)
 
 ---
 
