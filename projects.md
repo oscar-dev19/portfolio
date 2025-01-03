@@ -6,11 +6,12 @@
 - Designed and implemented a REST API that manages users' favorite foods using **AWS Lambda** and **DynamoDB**.
 - Leveraged **serverless architecture** to ensure scalability and efficient resource usage.
 - Integrated **API Gateway** for secure and scalable access to the backend.
+- simple frontend using **Flask** and **JQuery** for data input and responses.
 
 ## 2. CNC G-Code Compiler
 - Developed a multiparameter compiler simulating a **CNC milling machine**.
 - Enabled precise and flexible operations with G-Code through advanced compilation techniques.
-- Implemented in Python for high performance and maintainability.
+- Implemented in Python for maintainability and scalibility.
 
 ## 3. Rust Multithreaded Web Server
 - Built a robust multithreaded web server using **Rust**, ensuring **99.999% uptime**.
@@ -25,7 +26,8 @@
 ## 5. Python EMS (Employee Management System)
 
 - Developed a terminal-based application for efficient employee data management using Python and SQLite.
-Features include CRUD operations, modular design for scalability, and robust data validation.
+- Features include CRUD operations, modular design for scalability, and robust data validation.
+
 
 - For more projects, visit my GitHub: [github.com/oscar-dev19](https://github.com/oscar-dev19)
 
