@@ -1,4 +1,5 @@
 # Favorite Foods Serverless REST API
+![]('burger.gif')
 ___
 ## TechStack:
 - Python
