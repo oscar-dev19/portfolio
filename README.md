@@ -3,7 +3,7 @@
 
 ___
 # Resume 
-[Download Resume](OscarLopez_Resume_2025.pdf)
+[Resume](OscarLopez_Resume_2025.pdf)
 
 ___
 ## Oscar Lopez
