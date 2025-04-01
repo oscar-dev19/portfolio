@@ -2,7 +2,15 @@
 
 ![](briefcase.gif)
 
-## 1. Enrichment Coach | Treobytes  
+## 1. Contract Software Engineer | DataAnnotation.tech  
+**September 2024 - Present**  
+___
+
+- Train and fine-tune Large Language Models (LLMs) using **TypeScript** and **Python** programming.
+- Develop and implement coding solutions to improve model performance and accuracy.
+- Collaborate with AI teams to enhance model capabilities and documentation.
+
+## 2. Enrichment Coach | Treobytes  
 **June 2022 - September 2022**  
 ___
 
@@ -10,7 +18,7 @@ ___
 - Set up laptops with necessary software for student projects.
 - Provided bilingual support, ensuring accessibility for diverse student groups.
 
-## 2. Summer Intern | UC San Diego  
+## 3. Summer Intern | UC San Diego  
 **March 2021 - July 2021**  
 ___
 
@@ -18,7 +26,7 @@ ___
 - Assisted with hands-on activities in circuitry, physics, and programming using **Python** and **JavaScript**.
 - Collaborated with teams to deliver impactful educational experiences.
 
-## 3. CoOp Internship | MiraCosta College  
+## 4. CoOp Internship | MiraCosta College  
 **August 2018 - September 2018**  
 ___
 
