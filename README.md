@@ -26,6 +26,12 @@ ___
 
 ## Experience
 
+### Contract Software Engineer | DataAnnotation.tech  
+**September 2024 - Present**  
+- Train and fine-tune Large Language Models (LLMs) using **TypeScript** and **Python** programming.
+- Develop and implement coding solutions to improve model performance and accuracy.
+- Collaborate with AI teams to enhance model capabilities and documentation.
+
 ### Enrichment Coach | Treobytes  
 **June 2022 - September 2022**  
 - Guided K-12 students in understanding **basic circuitry** and **drone programming** with code blocks and **Python**.
@@ -88,5 +94,5 @@ For more projects, visit my GitHub: [github.com/oscar-dev19](https://github.com/
 
 ---
 
-Let’s connect and turn raw data into meaningful, game-changing results!
+Let's connect and turn raw data into meaningful, game-changing results!
 
