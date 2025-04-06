@@ -1,7 +1,7 @@
 # Projects
 [ Home ](README.md) | [ About Me ](aboutme.md) | [ Projects ](projects.md) | [ Experience ](experience.md) | [ Education ](education.md) | [ Contact Me ](contactMe.md)
 
-![](coding.gif)
+![My Projects](assets/images/coding.gif)
 
 ## 1. AWS Serverless CRUD API
 - Designed and implemented a REST API that manages users' favorite foods using **AWS Lambda** and **DynamoDB**.

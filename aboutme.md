@@ -1,6 +1,9 @@
 # About Me
 [ Home ](README.md) | [ About Me ](aboutme.md) | [ Projects ](projects.md) | [ Experience ](experience.md) | [ Education ](education.md) | [ Contact Me ](contactMe.md)
-___
+
+![Oscar Lopez](assets/images/profile_linkedin.jpeg)
+
+---
 👋 Hi, I'm Oscar Lopez!
 
 I'm an enthusiastic self-taught Software Engineer and Computer Science student working towards my B.S. in Computer Science. Currently, I'm working as a Contract Software Engineer at DataAnnotation.tech, where I train and fine-tune Large Language Models using TypeScript and Python. I have a passion for continuously learning new things, experimenting with cutting-edge software and technologies, and contributing to open source projects. Known for my love of distro hopping and my tendency to tinker with systems, even if it means breaking things that already worked.
