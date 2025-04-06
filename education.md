@@ -1,4 +1,5 @@
 # Education
+[ Home ](README.md) | [ About Me ](aboutme.md) | [ Projects ](projects.md) | [ Experience ](experience.md) | [ Education ](education.md) | [ Contact Me ](contactMe.md)
 
 ![](school.gif)
 
