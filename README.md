@@ -55,7 +55,7 @@ ___
 ## Skills
 
 - Programming: Python, JavaScript, Fortran, Cobol, Java, C/C++, ARM, Rust, Bash, SQL
-- Tools: AWS, Terraform, Docker, NodeJS, React, GCP, Flask, Git, JQuery, REST, Postgres DBM, Oracle DBM, Tableau
+- Tools: AWS, Terraform, Docker, NodeJS, React, GCP, Flask, Git, JQuery, REST, Postgres DBM, Oracle DBM, MySQL, Tableau
 - Soft Skills: Effective Communication, Leadership, Coaching
 
 ---
