@@ -5,12 +5,15 @@
 ---
 👋 Hi, I'm Oscar Lopez!
 
-I'm an enthusiastic self-taught Software Engineer and Computer Science student working towards my B.S. in Computer Science. Currently, I'm working as a Contract Software Engineer at DataAnnotation.tech, where I train and fine-tune Large Language Models using TypeScript and Python. I have a passion for continuously learning new things, experimenting with cutting-edge software and technologies, and contributing to open source projects. Known for my love of distro hopping and my tendency to tinker with systems, even if it means breaking things that already worked.
+I'm a self-taught Software Engineer and Computer Science student (B.S. in progress) with a deep curiosity for data and a passion for transforming information into meaningful insights. Currently, I’m a Contract Software Engineer at DataAnnotation.tech, where I fine-tune Large Language Models using TypeScript and Python—an experience that has sharpened my analytical mindset and deepened my understanding of real-world data systems.
 
-The projects I've worked on really highlight my passion for continuous learning and innovation. Whether it's building an AWS Serverless CRUD API, designing a CNC G-Code Compiler, or creating a multithreaded web server in Rust, I approach every task with curiosity and technical precision. My ultimate goal? To help organizations harness data to make smarter decisions, find patterns, and drive growth.
+My technical journey has been shaped by a relentless drive to learn, explore, and build. From architecting an AWS Serverless CRUD API to designing a CNC G-Code Compiler and developing a multithreaded web server in Rust, each project reflects my commitment to innovation, experimentation, and precision. I'm particularly drawn to uncovering patterns, solving complex problems, and using data to tell compelling stories that inform decision-making and drive business value.
 
-When I'm not solving coding challenges, you'll find me exploring the outdoors on a hiking trail, experimenting with new recipes in the kitchen, or discovering unique flavors at local cafes. These hobbies fuel my creativity and curiosity, bringing fresh perspectives to my work.
+Outside of code, I'm an avid hiker, experimental home cook, and café explorer. These creative outlets help me recharge and often inspire the unconventional thinking I bring to my work.
 
-Im interested in putting my abilities foward in industry and making an impact in industry!
+I'm eager to apply my skills in data analytics to make a measurable impact—helping organizations better understand their data, discover opportunities, and scale intelligently.
+
+---
+
 
 
