@@ -5,13 +5,13 @@
 ---
 👋 Hi, I'm Oscar Lopez!
 
-I'm a self-taught Software Engineer and Computer Science student (B.S. in progress) with a deep curiosity for data and a passion for transforming information into meaningful insights. Currently, I’m a Contract Software Engineer at DataAnnotation.tech, where I fine-tune Large Language Models using TypeScript and Python—an experience that has sharpened my analytical mindset and deepened my understanding of real-world data systems.
+I’m a self-taught Software Engineer and current Computer Science student (B.S. in progress) with a passion for building intelligent, data-driven systems that create real-world impact. As a Contract Software Engineer at DataAnnotation.tech, I fine-tune Large Language Models using TypeScript and Python—an experience that’s deepened my appreciation for the intersection of AI, language, and human insight.
 
-My technical journey has been shaped by a relentless drive to learn, explore, and build. From architecting an AWS Serverless CRUD API to designing a CNC G-Code Compiler and developing a multithreaded web server in Rust, each project reflects my commitment to innovation, experimentation, and precision. I'm particularly drawn to uncovering patterns, solving complex problems, and using data to tell compelling stories that inform decision-making and drive business value.
+Driven by curiosity and a commitment to lifelong learning, I’ve developed a diverse technical toolkit—from architecting AWS Serverless APIs and designing a CNC G-Code compiler to building a multithreaded web server in Rust. My projects reflect a balance of engineering rigor, creative problem-solving, and a desire to push boundaries across domains like systems programming, developer tooling, and data analytics.
 
-Outside of code, I'm an avid hiker, experimental home cook, and café explorer. These creative outlets help me recharge and often inspire the unconventional thinking I bring to my work.
+What excites me most is using code to turn complexity into clarity—whether that’s uncovering patterns in messy datasets, designing clean developer experiences, or solving tough architectural challenges. I thrive at the intersection of software, data, and thoughtful design, and I’m eager to contribute to high-impact teams that value experimentation, precision, and collaboration.
 
-I'm eager to apply my skills in data analytics to make a measurable impact—helping organizations better understand their data, discover opportunities, and scale intelligently.
+Outside of tech, I find inspiration in hiking trails, kitchen experiments, and cozy cafés. These spaces recharge me and often spark the unconventional thinking I bring to my work.
 
 ---
 
