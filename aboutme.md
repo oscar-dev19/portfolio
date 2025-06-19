@@ -3,17 +3,36 @@
 
 
 ---
-👋 Hi, I'm Oscar Lopez!
+## Who Am I?
+---
+  Hello! I'm Oscar Lopez—a self-driven Software Engineer and Computer Science student (undergraduate B.S.) who loves to bring together transformative intelligent systems and action in the real world.
 
-I’m a self-taught Software Engineer and current Computer Science student (B.S. in progress) with a passion for building intelligent, data-driven systems that create real-world impact. As a Contract Software Engineer at DataAnnotation.tech, I fine-tune Large Language Models using TypeScript and Python—an experience that’s deepened my appreciation for the intersection of AI, language, and human insight.
+## What Drives Me?
+---
+  My focus is intelligent, data-driven systems that ultimately deliver real value in people's lives. There is nothing quite like writing code that connects the complex world of algorithms to the tangible world of solutions—wether this is driving efficiency through a workflow, automating complexity, or revealing what wasn't obvious in the data.
 
-Driven by curiosity and a commitment to lifelong learning, I’ve developed a diverse technical toolkit—from architecting AWS Serverless APIs and designing a CNC G-Code compiler to building a multithreaded web server in Rust. My projects reflect a balance of engineering rigor, creative problem-solving, and a desire to push boundaries across domains like systems programming, developer tooling, and data analytics.
+## Current Work | Experience
+  As a Contract Software Engineer with DataAnnotation.tech I operate in the world of Large Language Models and build and finetune AI systems in TypeScript and Python every day. I have developed a true appreciation for the blend of artificial intelligence, natural language processing and human judgement. The best AI systems are those that aren't only advanced technologically, but were designed for how people actually reason and communicate in a humanistic way. 
+My work with LLMs has given me the perspective that instead of AI replacing human judgement, we need to augment it. I am especially interested in autonomous systems that have the ability to learn, adapt, make intelligent conclusions, and are transparent and controllable.
 
-What excites me most is using code to turn complexity into clarity—whether that’s uncovering patterns in messy datasets, designing clean developer experiences, or solving tough architectural challenges. I thrive at the intersection of software, data, and thoughtful design, and I’m eager to contribute to high-impact teams that value experimentation, precision, and collaboration.
+## Technical Journey & Philosophy
 
-Outside of tech, I find inspiration in hiking trails, kitchen experiments, and cozy cafés. These spaces recharge me and often spark the unconventional thinking I bring to my work.
+  I believe my learning journey has not been straightforward - and I wouldn't want it to be! I have followed my curiosities and developed a wide-ranging technical tool-belt spanning multiple disciplines. I believe the most interesting problems lie in the overlaps and intersections of disciplines - systems programming and data analytics, developer tools and user experience, machine learning and real-world engineering.
+
+## Highlights of some of my Projects
+
+### Cloud Architecture: 
+I've architected AWS Serverless APIs that handle real-world traffic, learning firsthand how to build systems that are both scalable and cost-effective. There's a particular satisfaction in designing infrastructure that elegantly handles both your everyday load and your unexpected viral moment.
+### Systems Programming: 
+Built a CNC G-Code compiler that translates design intentions into precise machine instructions—a project that taught me the importance of precision, performance, and the beauty of code that controls physical reality.
+### Performance Engineering: 
+Developed a Rust multithreaded web server, diving deep into memory management, concurrency, and the art of squeezing every ounce of performance out of hardware. Rust taught me that safety and speed aren't mutually exclusive.
+
+Each project has been a deliberate exploration into uncharted territory, testing limits and discovering what happens when seemingly disparate technologies and methodologies collide in interesting ways.
 
 ---
+
+
 
 
 
