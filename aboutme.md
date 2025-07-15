@@ -11,10 +11,6 @@
 ---
   My focus is intelligent, data-driven systems that ultimately deliver real value in people's lives. There is nothing quite like writing code that connects the complex world of algorithms to the tangible world of solutions—wether this is driving efficiency through a workflow, automating complexity, or revealing what wasn't obvious in the data.
 
-## Current Work | Experience
-  As a Contract Software Engineer with DataAnnotation.tech I operate in the world of Large Language Models and build and finetune AI systems in TypeScript and Python every day. I have developed a true appreciation for the blend of artificial intelligence, natural language processing and human judgement. The best AI systems are those that aren't only advanced technologically, but were designed for how people actually reason and communicate in a humanistic way. 
-My work with LLMs has given me the perspective that instead of AI replacing human judgement, we need to augment it. I am especially interested in autonomous systems that have the ability to learn, adapt, make intelligent conclusions, and are transparent and controllable.
-
 ## Technical Journey & Philosophy
 
   I believe my learning journey has not been straightforward - and I wouldn't want it to be! I have followed my curiosities and developed a wide-ranging technical tool-belt spanning multiple disciplines. I believe the most interesting problems lie in the overlaps and intersections of disciplines - systems programming and data analytics, developer tools and user experience, machine learning and real-world engineering.
