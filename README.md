@@ -17,20 +17,15 @@ ___
 ## Education
 
 ### California State University San Marcos  
-**Bachelor of Science in Computer Science** (In Progress)
+**Bachelor of Science in Computer Science** 
 
 ### Palomar College  
-**Associate of Science in Data Analytics** (In Progress)
+**Associate of Science in Data Analytics** 
 
 ---
 
 ## Experience
 
-### Contract Software Engineer | DataAnnotation.tech  
-**September 2024 - Present**  
-- Train and fine-tune Large Language Models (LLMs) using **TypeScript** and **Python** programming.
-- Develop and implement coding solutions to improve model performance and accuracy.
-- Collaborate with AI teams to enhance model capabilities and documentation.
 
 ### Enrichment Coach | Treobytes  
 **June 2022 - September 2022**  
