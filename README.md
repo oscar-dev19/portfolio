@@ -57,6 +57,13 @@ ___
 
 ## Projects
 
+### Library LLM MCP Server
+ - Designed and architected an mcp server using **Python**.
+ - Indexes and Queries from a library of 100+ ebooks of varying formats
+ - Implemented an efficient cache to improve mcp efficiency by 90%.
+ - Designed meta-data extraction to be asynchronous which speed up mcp indexing of ebooks 
+   by 300%.
+
 ### AWS Serverless CRUD API
 - Designed and implemented a REST API that manages users' favorite foods using **AWS Lambda** and **DynamoDB**.
 - Leveraged **serverless architecture** to ensure scalability and efficient resource usage.
